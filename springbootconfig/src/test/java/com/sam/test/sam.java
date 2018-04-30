@@ -1,5 +1,5 @@
 package com.sam.test;
 
-public class hello {
-	
+public class sam {
+
 }
