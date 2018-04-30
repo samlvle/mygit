@@ -6,5 +6,6 @@ public class testAppConfig {
 	{
 		System.out.println("ni hao a ");
         System.out.println("ni aho");
+        System.out.println("__________________");
 	}
 }
