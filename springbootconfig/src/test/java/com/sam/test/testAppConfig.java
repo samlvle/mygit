@@ -4,6 +4,6 @@ public class testAppConfig {
 
 	public void main(String args[])
 	{
-		System.err.println("ods");
+		System.out.println("ni hao a ");
 	}
 }
